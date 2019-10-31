@@ -6,10 +6,17 @@ This repository contains a bit of web content (two HTML files and one image) in 
 ## Steps to build the app ##
 
 **Prerequisites:** 
-[Apache Cordova](https://cordova.apache.org/) must be installed.
 
+* [Node.js](https://nodejs.org/en/) must be installed.
 
-Create Cordova project:
+* [Apache Cordova](https://cordova.apache.org/) must be installed as [package for Node.js (NPM)](https://www.npmjs.com/package/cordova):
+  ````
+  npm install -g cordova
+  ````
+  The option `-g` tells NPM to install the cordova globally on your computer.
+<br>
+
+Create a Cordova project:
 
     cordova create HalloCordova de.mide.hallocordova "Hallo Cordova"
 
