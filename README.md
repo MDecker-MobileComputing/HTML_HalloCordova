@@ -1,9 +1,16 @@
 # Web-Content für die "Hallo Cordova!"-App #
 
+<br>
+
 This repository contains a bit of web content (two HTML files and one image) in folder [docs/](docs), which is to be used for building a mobile app for Android (and maybe also iOS) in form of a so called *Hybrid App* using *Apache Cordova*.
 
+<br>
+
 ----
+
 ## Steps to build the app ##
+
+<br>
 
 **Prerequisites:** 
 
@@ -35,14 +42,22 @@ The build command should print out a message telling at which path the created i
 <br>
 
 ----
+
 ## Preview of web content ##
+
+<br>
 
 The web content in this repository can be previewed at [this URL](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/index.html).
 
 <br>
 
 ----
+
 ## License ##
+
+<br>
 
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License)
 for the files in this repository.
+
+<br>
